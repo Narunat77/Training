@@ -1,0 +1,15 @@
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Backup\DataBase\NET\Training\BornToDev\Wpf\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
