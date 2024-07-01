@@ -1,7 +1,7 @@
 ﻿CREATE PROCEDURE SCBS.Usp_GetData_Activity_Log
 AS
 BEGIN
-
+-- เก็บข้อมูลจาก sp1 ใน temporary table =====Added=====
 	IF OBJECT_ID('tempdb..#LoginLogout')IS NOT NULL
 	DROP TABLE #LoginLogout
 
