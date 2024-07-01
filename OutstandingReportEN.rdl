@@ -2758,20 +2758,6 @@ This document is issued by system hence no signature.
           <PrintOnFirstPage>true</PrintOnFirstPage>
           <PrintOnLastPage>true</PrintOnLastPage>
           <ReportItems>
-            <Image Name="Image1">
-              <Source>Embedded</Source>
-              <Value>logo</Value>
-              <Sizing>FitProportional</Sizing>
-              <Top>0cm</Top>
-              <Left>5.30126cm</Left>
-              <Height>1.4cm</Height>
-              <Width>7.73944cm</Width>
-              <Style>
-                <Border>
-                  <Style>None</Style>
-                </Border>
-              </Style>
-            </Image>
             <Textbox Name="Textbox7">
               <CanGrow>true</CanGrow>
               <KeepTogether>true</KeepTogether>
@@ -2844,7 +2830,6 @@ This document is issued by system hence no signature.
               <Top>6.05923cm</Top>
               <Height>0.55056cm</Height>
               <Width>7.2325in</Width>
-              <ZIndex>1</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -2880,7 +2865,7 @@ This document is issued by system hence no signature.
               <Left>0cm</Left>
               <Height>0.60854cm</Height>
               <Width>18.37056cm</Width>
-              <ZIndex>2</ZIndex>
+              <ZIndex>1</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -2916,7 +2901,7 @@ This document is issued by system hence no signature.
               <Left>0.00001cm</Left>
               <Height>0.60844cm</Height>
               <Width>1.27263cm</Width>
-              <ZIndex>3</ZIndex>
+              <ZIndex>2</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -2960,7 +2945,7 @@ This document is issued by system hence no signature.
               <Left>1.27264cm</Left>
               <Height>0.60844cm</Height>
               <Width>17.09791cm</Width>
-              <ZIndex>4</ZIndex>
+              <ZIndex>3</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -2977,7 +2962,7 @@ This document is issued by system hence no signature.
               <Left>0cm</Left>
               <Height>0cm</Height>
               <Width>18.37056cm</Width>
-              <ZIndex>5</ZIndex>
+              <ZIndex>4</ZIndex>
               <Style>
                 <Border>
                   <Style>Solid</Style>
@@ -3006,7 +2991,7 @@ This document is issued by system hence no signature.
               <Left>0.00004cm</Left>
               <Height>2.02805cm</Height>
               <Width>1.27263cm</Width>
-              <ZIndex>6</ZIndex>
+              <ZIndex>5</ZIndex>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -3088,7 +3073,7 @@ This document is issued by system hence no signature.
               <Left>0.5241in</Left>
               <Height>2.02805cm</Height>
               <Width>17.03936cm</Width>
-              <ZIndex>7</ZIndex>
+              <ZIndex>6</ZIndex>
               <DataElementName>Addess</DataElementName>
               <DataElementOutput>NoOutput</DataElementOutput>
               <Style>
