@@ -2,14 +2,7 @@
 AS
 BEGIN
 --Comment 123
-	IF OBJECT_ID('tempdb..#LoginLogout')IS NOT NULL
-	DROP TABLE #LoginLogout
 
-	IF OBJECT_ID('tempdb..#Acitivity')IS NOT NULL
-	DROP TABLE #Acitivity
-
-	IF OBJECT_ID('tempdb..#Result')IS NOT NULL
-	DROP TABLE #Acitivity
 
  
     CREATE TABLE #LoginLogout (
