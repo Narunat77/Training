@@ -10,7 +10,7 @@ BEGIN
 
 	IF OBJECT_ID('tempdb..#Result')IS NOT NULL
 	DROP TABLE #Acitivity
-
+-- Test mainnnnnnnnnnn
  
     CREATE TABLE #LoginLogout (
         [Date_Time] datetime2(0),
