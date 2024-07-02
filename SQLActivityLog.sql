@@ -1,7 +1,7 @@
 ﻿CREATE PROCEDURE SCBS.Usp_GetData_Activity_Log
 AS
 BEGIN
-
+--Comment 123
 	IF OBJECT_ID('tempdb..#LoginLogout')IS NOT NULL
 	DROP TABLE #LoginLogout
 
